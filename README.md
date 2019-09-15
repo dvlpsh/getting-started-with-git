@@ -1,6 +1,6 @@
 # getting-started-with-git
 
-List of commands that can help you set up a repo.  
+List of commands that can help you set up a repo using the command line.  
 
 git1.pdf : Set up a repo and add files to repo.  
 
